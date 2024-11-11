@@ -1,0 +1,4 @@
+name = "bugzilla-stats-worker"
+main = "src/index.ts"
+compatibility_date = "2024-11-11"
+account_id = "738995"
